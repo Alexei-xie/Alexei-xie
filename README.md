@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Alexei-xie!](https://github.com/xw-1998) 
+### Hey 👋🏽, I'm [Alexei!](https://github.com/Alexei-xie) 
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -17,7 +17,7 @@
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Alexei-xie&show_icons=true&hide_border=true)
 
 
-⭐️ From [Alexei-xie](https://github.com/Alexei-xie)
+⭐️ From [Alexei](https://github.com/Alexei-xie)
 
 
 <a href="https://github.com/Alexei-xie/psersonal">
