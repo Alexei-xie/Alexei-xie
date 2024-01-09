@@ -21,10 +21,10 @@
 
 
 <a href="https://github.com/Alexei-xie/psersonal">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xw-1998&repo=psersonal" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexei-xie&repo=psersonal" />
 </a>
 
 <a href="https://github.com/Alexei-xie/springboot-demo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xw-1998&repo=springboot-demo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexei-xie&repo=springboot-demo" />
 </a>
 
