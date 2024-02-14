@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning Java
 - 📫 Ask me about anything you want if I know, reach me: Alexei_xie@163.com
-- ⚡ Fun fact: reading, music,movies and so on
-- 💬 Be free to ask me about anything [here](https://github.com/Alexei-xie/Alexei-xie/issues) or my personal [blog](https://juejin.cn/user/2151062928108397/posts) in juejin.
+- ⚡ Fun fact: reading, music, movies,games and so on
+- 💬 Be free to ask me about anything [here of my issues](https://github.com/Alexei-xie/Alexei-xie/issues) or my personal [blog](https://juejin.cn/user/2151062928108397/posts) in juejin.
 
 
   
