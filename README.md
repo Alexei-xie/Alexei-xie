@@ -9,8 +9,8 @@
 - 📫 Ask me about anything you want if I know, reach me: Alexei_xie@163.com
 - ⚡ Fun fact: reading, music, movies,games and so on
 - 💬 Be free to ask me about anything [here of my issues](https://github.com/Alexei-xie/Alexei-xie/issues) or my personal [blog](https://juejin.cn/user/2151062928108397/posts) in juejin.
-- 🍁 My WeChat official account:《镀己》
-- <img width="255" alt="image" src="https://github.com/Alexei-xie/Alexei-xie/assets/51707756/399527c4-a7d7-4d26-9ee7-8e02c9aff0f8">
+- 🍁 My WeChat official account:《菜汪码农日志》
+- <img width="255" alt="image" src="https://github.com/Alexei-xie/Alexei-xie/assets/51707756/364612b4-6bc8-4db4-a947-ba87c75c8d82">
 
 
 
